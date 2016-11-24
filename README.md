@@ -6,14 +6,21 @@
 
 **Pedro Fernandes**, ELIXIR-PT, GTPB
 
-**Jure Dimec**, ELIXIR-SI
+**Jure Dimec**, ELIXIR-SI, ULMF
 
 
 ##
 
 **Participants**
-* 
-* 
+* Sarah Bonnin, CRG, ELIXIR-ES
+* Victoria Dominguez Bohler, IFB, ELIXIR-FR
+* Katja Goričar, IBK ULMF, ELIXIR-SI
+* Rasmus Heller, Dpt Biol, Uni Copenhagen, ELIXIR-DK
+* Nada Kraševec, KI, ELIXIR-SI
+* Mirjana Malnar, IJS, ELIXIR-SI
+* Ajda Moškrič, ELIXIR-SI
+* Marian Novotný, Faculty of Science, Charles University, ELIXIR-CZ
+* Maja Zagorščak, NIB, ELIXIR-SI
 
 ##
 
